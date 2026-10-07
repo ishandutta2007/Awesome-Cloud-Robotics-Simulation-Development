@@ -69,7 +69,7 @@ Welcome to the definitive, SEO-optimized curated directory of **cloud robotics s
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[ROS 2](https://github.com/ros2/ros2)** [![Stars](https://img.shields.io/github/stars/ros2/ros2?style=social&color=white)](https://github.com/ros2/ros2/stargazers) 🌟  
   **Robot Operating System 2**, Apache-2.0 licensed. **The de facto industry standard middleware for robotics development** . DDS-based pub/sub architecture, real-time control capability, and multi-platform cloud/edge compatibility . 🔗
@@ -115,7 +115,7 @@ Contributions are welcome! Follow these steps to submit new robotics simulation 
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact star count badge, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count badge, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
